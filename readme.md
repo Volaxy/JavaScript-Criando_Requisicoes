@@ -22,3 +22,10 @@ URL do curso -> [JavaScript - Criando Requisições](https://cursos.alura.com.br
 * Fazer o download e instalar o Node.js.
 * Instalar pacotes em projetos com o Node Package Manager (NPM).
 * Iniciar um servidor com o Json-server.
+
+***
+
+## 02 - Exibindo Elementos &#x1F516;
+* Criar requisições GET para consumir uma API.
+* Manipular o DOM para criar elementos a partir do JavaScript.
+* Inserir novos objetos em um arquivo JSON.
