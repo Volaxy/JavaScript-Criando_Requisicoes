@@ -29,3 +29,7 @@ URL do curso -> [JavaScript - Criando Requisições](https://cursos.alura.com.br
 * Criar requisições GET para consumir uma API.
 * Manipular o DOM para criar elementos a partir do JavaScript.
 * Inserir novos objetos em um arquivo JSON.
+
+***
+
+## 03 - Criando Novos Elementos &#x1F516;
