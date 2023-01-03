@@ -46,3 +46,12 @@ URL do curso -> [JavaScript - Criando Requisições](https://cursos.alura.com.br
 * Detectar eventos de click com addEventListener.
 * Verificar se há elementos filhos em um container com firstChild.
 * Remover elementos filhos de um container com removeChild.
+
+***
+
+## 05 - Lidando com Erros &#x1F516;
+* Lidar com erros com try catch.
+* Criar novos erros com throw new Error.
+* Detectar erros através de condicionais.
+* Verificar se uma lista está vazia pelo seu tamanho.
+* Imprimir mensagens de erro.
