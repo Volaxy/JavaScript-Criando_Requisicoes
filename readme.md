@@ -37,3 +37,12 @@ URL do curso -> [JavaScript - Criando Requisições](https://cursos.alura.com.br
 * Estruturar requisições do tipo POST enviadas com o fetch API.
 * Diferenciar method, headers e body.
 * Captar evento de envio (submit) em formulários.
+
+***
+
+## 04 - Buscando Elementos &#x1F516;
+* Como utilizar parâmetros para buscar objetos específicos na API.
+* Recolher dados escritos em um campo de digitação.
+* Detectar eventos de click com addEventListener.
+* Verificar se há elementos filhos em um container com firstChild.
+* Remover elementos filhos de um container com removeChild.
