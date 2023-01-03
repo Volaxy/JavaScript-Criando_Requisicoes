@@ -14,7 +14,7 @@ URL do curso -> [JavaScript - Criando Requisições](https://cursos.alura.com.br
 * [Base Project](https://github.com/alura-cursos/aluraplay-requisicoes/archive/refs/heads/main.zip) - Código base do projeto.
 
 ## Atalhos &#x2328;
-* `json-server --watch db.json` - Comando para executar o projeto.
+* `json-server --watch db.json` ou `npx json-server --watch db.json` - Comando para executar o projeto.
 
 ***
 
@@ -33,3 +33,7 @@ URL do curso -> [JavaScript - Criando Requisições](https://cursos.alura.com.br
 ***
 
 ## 03 - Criando Novos Elementos &#x1F516;
+* Salvar dados na API através do método POST.
+* Estruturar requisições do tipo POST enviadas com o fetch API.
+* Diferenciar method, headers e body.
+* Captar evento de envio (submit) em formulários.

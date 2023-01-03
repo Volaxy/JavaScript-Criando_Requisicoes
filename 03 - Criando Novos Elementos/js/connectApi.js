@@ -6,7 +6,7 @@ async function getVideos() {
 }
 
 async function createVideo(titulo, descricao, url, imagem) {
-    const connection = await fetch("http://localhost:3000/video", {
+    const connection = await fetch("http://localhost:3000/videos", {
         method: "POST",
 
         headers: {
